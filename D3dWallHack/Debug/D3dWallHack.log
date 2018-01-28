@@ -1,0 +1,53 @@
+﻿  FW1Precompiled.cpp
+d:\c++project\d3dwallhack\d3dwallhack\fw1fontwrapper\fw1precompiled.cpp(5): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  FW1FontWrapper.cpp
+d:\c++project\d3dwallhack\d3dwallhack\fw1fontwrapper\fw1fontwrapper.cpp(43): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  CFW1TextRendererInterface.cpp
+d:\c++project\d3dwallhack\d3dwallhack\fw1fontwrapper\cfw1textrendererinterface.cpp(258): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  CFW1TextRenderer.cpp
+d:\c++project\d3dwallhack\d3dwallhack\fw1fontwrapper\cfw1textrenderer.cpp(59): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  CFW1TextGeometryInterface.cpp
+d:\c++project\d3dwallhack\d3dwallhack\fw1fontwrapper\cfw1textgeometryinterface.cpp(114): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  CFW1TextGeometry.cpp
+d:\c++project\d3dwallhack\d3dwallhack\fw1fontwrapper\cfw1textgeometry.cpp(35): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  CFW1StateSaver.cpp
+d:\c++project\d3dwallhack\d3dwallhack\fw1fontwrapper\cfw1statesaver.cpp(217): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  CFW1GlyphVertexDrawerInterface.cpp
+d:\c++project\d3dwallhack\d3dwallhack\fw1fontwrapper\cfw1glyphvertexdrawerinterface.cpp(67): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  CFW1GlyphVertexDrawer.cpp
+d:\c++project\d3dwallhack\d3dwallhack\fw1fontwrapper\cfw1glyphvertexdrawer.cpp(315): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  CFW1GlyphSheetInterface.cpp
+d:\c++project\d3dwallhack\d3dwallhack\fw1fontwrapper\cfw1glyphsheetinterface.cpp(312): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  CFW1GlyphSheet.cpp
+d:\c++project\d3dwallhack\d3dwallhack\fw1fontwrapper\cfw1glyphsheet.cpp(276): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  CFW1GlyphRenderStatesInterface.cpp
+d:\c++project\d3dwallhack\d3dwallhack\fw1fontwrapper\cfw1glyphrenderstatesinterface.cpp(152): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  CFW1GlyphRenderStates.cpp
+d:\c++project\d3dwallhack\d3dwallhack\fw1fontwrapper\cfw1glyphrenderstates.cpp(858): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  CFW1GlyphProviderInterface.cpp
+d:\c++project\d3dwallhack\d3dwallhack\fw1fontwrapper\cfw1glyphproviderinterface.cpp(169): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  CFW1GlyphProvider.cpp
+d:\c++project\d3dwallhack\d3dwallhack\fw1fontwrapper\cfw1glyphprovider.cpp(316): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  CFW1GlyphAtlasInterface.cpp
+d:\c++project\d3dwallhack\d3dwallhack\fw1fontwrapper\cfw1glyphatlasinterface.cpp(198): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  CFW1GlyphAtlas.cpp
+d:\c++project\d3dwallhack\d3dwallhack\fw1fontwrapper\cfw1glyphatlas.cpp(123): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  CFW1FontWrapperInterface.cpp
+d:\c++project\d3dwallhack\d3dwallhack\fw1fontwrapper\cfw1fontwrapperinterface.cpp(396): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  CFW1FontWrapper.cpp
+d:\c++project\d3dwallhack\d3dwallhack\fw1fontwrapper\cfw1fontwrapper.cpp(185): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  CFW1FactoryInterface.cpp
+d:\c++project\d3dwallhack\d3dwallhack\fw1fontwrapper\cfw1factoryinterface.cpp(525): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Generating Code...
+  Compiling...
+  CFW1Factory.cpp
+d:\c++project\d3dwallhack\d3dwallhack\fw1fontwrapper\cfw1factory.cpp(89): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  CFW1DWriteRenderTargetInterface.cpp
+d:\c++project\d3dwallhack\d3dwallhack\fw1fontwrapper\cfw1dwriterendertargetinterface.cpp(114): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  CFW1DWriteRenderTarget.cpp
+d:\c++project\d3dwallhack\d3dwallhack\fw1fontwrapper\cfw1dwriterendertarget.cpp(209): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  CFW1ColorRGBAInterface.cpp
+d:\c++project\d3dwallhack\d3dwallhack\fw1fontwrapper\cfw1colorrgbainterface.cpp(69): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  CFW1ColorRGBA.cpp
+d:\c++project\d3dwallhack\d3dwallhack\fw1fontwrapper\cfw1colorrgba.cpp(36): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Generating Code...

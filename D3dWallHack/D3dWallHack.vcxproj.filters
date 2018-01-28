@@ -1,0 +1,168 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\fontface">
+      <UniqueIdentifier>{c61e5ccb-aa5c-4b23-a1d4-6ebe66ed090e}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="FW1FontWrapper\CFW1ColorRGBA.h">
+      <Filter>Source Files\fontface</Filter>
+    </ClInclude>
+    <ClInclude Include="FW1FontWrapper\CFW1DWriteRenderTarget.h">
+      <Filter>Source Files\fontface</Filter>
+    </ClInclude>
+    <ClInclude Include="FW1FontWrapper\CFW1Factory.h">
+      <Filter>Source Files\fontface</Filter>
+    </ClInclude>
+    <ClInclude Include="FW1FontWrapper\CFW1FontWrapper.h">
+      <Filter>Source Files\fontface</Filter>
+    </ClInclude>
+    <ClInclude Include="FW1FontWrapper\CFW1GlyphAtlas.h">
+      <Filter>Source Files\fontface</Filter>
+    </ClInclude>
+    <ClInclude Include="FW1FontWrapper\CFW1GlyphProvider.h">
+      <Filter>Source Files\fontface</Filter>
+    </ClInclude>
+    <ClInclude Include="FW1FontWrapper\CFW1GlyphRenderStates.h">
+      <Filter>Source Files\fontface</Filter>
+    </ClInclude>
+    <ClInclude Include="FW1FontWrapper\CFW1GlyphSheet.h">
+      <Filter>Source Files\fontface</Filter>
+    </ClInclude>
+    <ClInclude Include="FW1FontWrapper\CFW1GlyphVertexDrawer.h">
+      <Filter>Source Files\fontface</Filter>
+    </ClInclude>
+    <ClInclude Include="FW1FontWrapper\CFW1Object.h">
+      <Filter>Source Files\fontface</Filter>
+    </ClInclude>
+    <ClInclude Include="FW1FontWrapper\CFW1StateSaver.h">
+      <Filter>Source Files\fontface</Filter>
+    </ClInclude>
+    <ClInclude Include="FW1FontWrapper\CFW1TextGeometry.h">
+      <Filter>Source Files\fontface</Filter>
+    </ClInclude>
+    <ClInclude Include="FW1FontWrapper\CFW1TextRenderer.h">
+      <Filter>Source Files\fontface</Filter>
+    </ClInclude>
+    <ClInclude Include="FW1FontWrapper\FW1CompileSettings.h">
+      <Filter>Source Files\fontface</Filter>
+    </ClInclude>
+    <ClInclude Include="FW1FontWrapper\FW1FontWrapper.h">
+      <Filter>Source Files\fontface</Filter>
+    </ClInclude>
+    <ClInclude Include="FW1FontWrapper\FW1Precompiled.h">
+      <Filter>Source Files\fontface</Filter>
+    </ClInclude>
+    <ClInclude Include="Render.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D3dWallHack.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="dllmain.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="FW1FontWrapper\CFW1ColorRGBA.cpp">
+      <Filter>Source Files\fontface</Filter>
+    </ClCompile>
+    <ClCompile Include="FW1FontWrapper\CFW1ColorRGBAInterface.cpp">
+      <Filter>Source Files\fontface</Filter>
+    </ClCompile>
+    <ClCompile Include="FW1FontWrapper\CFW1DWriteRenderTarget.cpp">
+      <Filter>Source Files\fontface</Filter>
+    </ClCompile>
+    <ClCompile Include="FW1FontWrapper\CFW1DWriteRenderTargetInterface.cpp">
+      <Filter>Source Files\fontface</Filter>
+    </ClCompile>
+    <ClCompile Include="FW1FontWrapper\CFW1Factory.cpp">
+      <Filter>Source Files\fontface</Filter>
+    </ClCompile>
+    <ClCompile Include="FW1FontWrapper\CFW1FactoryInterface.cpp">
+      <Filter>Source Files\fontface</Filter>
+    </ClCompile>
+    <ClCompile Include="FW1FontWrapper\CFW1FontWrapper.cpp">
+      <Filter>Source Files\fontface</Filter>
+    </ClCompile>
+    <ClCompile Include="FW1FontWrapper\CFW1FontWrapperInterface.cpp">
+      <Filter>Source Files\fontface</Filter>
+    </ClCompile>
+    <ClCompile Include="FW1FontWrapper\CFW1GlyphAtlas.cpp">
+      <Filter>Source Files\fontface</Filter>
+    </ClCompile>
+    <ClCompile Include="FW1FontWrapper\CFW1GlyphAtlasInterface.cpp">
+      <Filter>Source Files\fontface</Filter>
+    </ClCompile>
+    <ClCompile Include="FW1FontWrapper\CFW1GlyphProvider.cpp">
+      <Filter>Source Files\fontface</Filter>
+    </ClCompile>
+    <ClCompile Include="FW1FontWrapper\CFW1GlyphProviderInterface.cpp">
+      <Filter>Source Files\fontface</Filter>
+    </ClCompile>
+    <ClCompile Include="FW1FontWrapper\CFW1GlyphRenderStates.cpp">
+      <Filter>Source Files\fontface</Filter>
+    </ClCompile>
+    <ClCompile Include="FW1FontWrapper\CFW1GlyphRenderStatesInterface.cpp">
+      <Filter>Source Files\fontface</Filter>
+    </ClCompile>
+    <ClCompile Include="FW1FontWrapper\CFW1GlyphSheet.cpp">
+      <Filter>Source Files\fontface</Filter>
+    </ClCompile>
+    <ClCompile Include="FW1FontWrapper\CFW1GlyphSheetInterface.cpp">
+      <Filter>Source Files\fontface</Filter>
+    </ClCompile>
+    <ClCompile Include="FW1FontWrapper\CFW1GlyphVertexDrawer.cpp">
+      <Filter>Source Files\fontface</Filter>
+    </ClCompile>
+    <ClCompile Include="FW1FontWrapper\CFW1GlyphVertexDrawerInterface.cpp">
+      <Filter>Source Files\fontface</Filter>
+    </ClCompile>
+    <ClCompile Include="FW1FontWrapper\CFW1StateSaver.cpp">
+      <Filter>Source Files\fontface</Filter>
+    </ClCompile>
+    <ClCompile Include="FW1FontWrapper\CFW1TextGeometry.cpp">
+      <Filter>Source Files\fontface</Filter>
+    </ClCompile>
+    <ClCompile Include="FW1FontWrapper\CFW1TextGeometryInterface.cpp">
+      <Filter>Source Files\fontface</Filter>
+    </ClCompile>
+    <ClCompile Include="FW1FontWrapper\CFW1TextRenderer.cpp">
+      <Filter>Source Files\fontface</Filter>
+    </ClCompile>
+    <ClCompile Include="FW1FontWrapper\CFW1TextRendererInterface.cpp">
+      <Filter>Source Files\fontface</Filter>
+    </ClCompile>
+    <ClCompile Include="FW1FontWrapper\FW1FontWrapper.cpp">
+      <Filter>Source Files\fontface</Filter>
+    </ClCompile>
+    <ClCompile Include="FW1FontWrapper\FW1Precompiled.cpp">
+      <Filter>Source Files\fontface</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

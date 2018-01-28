@@ -1,0 +1,12 @@
+﻿  dllmain.cpp
+dllmain.cpp(262): warning C4316: 'Renderer': object allocated on the heap may not be aligned 16
+dllmain.cpp(395): warning C4018: '<': signed/unsigned mismatch
+dllmain.cpp(395): warning C4018: '>': signed/unsigned mismatch
+     Creating library D:\C++Project\D3dWallHack\Release\D3dWallHack.lib and object D:\C++Project\D3dWallHack\Release\D3dWallHack.exp
+  Generating code
+  5 of 1637 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  D3dWallHack.vcxproj -> D:\C++Project\D3dWallHack\Release\D3dWallHack.dll
+  D3dWallHack.vcxproj -> D:\C++Project\D3dWallHack\Release\D3dWallHack.pdb (Full PDB)
